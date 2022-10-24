@@ -1,0 +1,13 @@
+h1{
+    text-align: left;
+    font-size: 50px;
+    color: green;
+
+}
+p{
+    text-indent: 1.5em;
+
+}
+body{
+    background: aliceblue;
+}
